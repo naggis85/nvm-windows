@@ -1,0 +1,4 @@
+root: C:\Users\j.spagnol\AppData\Local\nvm 
+path:  
+arch: 64 
+proxy: none
