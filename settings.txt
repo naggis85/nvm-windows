@@ -1,4 +1,4 @@
-root: C:\Users\j.spagnol\AppData\Local\nvm 
+root: C:\Users\%USERNAME%\AppData\Local\nvm 
 path:  
 arch: 64 
 proxy: none
